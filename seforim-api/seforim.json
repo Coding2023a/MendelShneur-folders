@@ -1,0 +1,60 @@
+{
+    "seforim": [
+      {"id": 1, "title": "Shulchan Aruch שלחן ערוך", "author": "Rabbi Yosef Karo בית יוסף ", "category": "Halacha הלכה"},
+      {"id": 2, "title": "Mishnah Berurah משנה ברורה", "author": "Rabbi Yisrael Meir Kagan חפץ חיים", "category": "Halacha הלכה"},
+      {"id": 3, "title": "Chumash חומש", "author": "Hashem 'ה", "category": "Tanach תנ'ך"},
+      {"id": 4, "title": "Talmud Bavli תלמוד בבלי", "author": "Various רבינא ורב אשי", "category": "Talmud גמרא"},
+      {"id": 5, "title": "Sefer HaMitzvot ספר המצות", "author": "Maimonides רמב'ם", "category": "Halacha הלכה"},
+      {"id": 6, "title": "Kitzur Shulchan Aruch קיצור שלחן ערוך", "author": "Rabbi Shlomo Ganzfried הרב שלמה גאנצפריד", "category": "Halacha הלכה"},
+      {"id": 7, "title": "Nefesh Hachaim נפש החיים", "author": "Rabbi Chaim of Volozhin הרב חיים", "category": "Mussar"},
+      {"id": 8, "title": "Mesilas Yesharim", "author": "Rabbi Moshe Chaim Luzzatto", "category": "Mussar"},
+      {"id": 9, "title": "Sha'arei Teshuva", "author": "Rabbeinu Yonah of Gerona", "category": "Mussar"},
+      {"id": 10, "title": "Kuzari", "author": "Rabbi Yehuda Halevi", "category": "Philosophy"},
+      {"id": 11, "title": "Moreh Nevuchim", "author": "Rambam", "category": "Philosophy"},
+      {"id": 12, "title": "Sefer Yetzirah", "author": "Avraham Avinu", "category": "Kabbalah"},
+      {"id": 13, "title": "Zohar", "author": "Rabbi Shimon bar Yochai", "category": "Kabbalah"},
+      {"id": 14, "title": "Tanya", "author": "Rabbi Schneur Zalman of Liadi", "category": "Chassidus"},
+      {"id": 15, "title": "Likutei Moharan", "author": "Rebbe Nachman of Breslov", "category": "Chassidus"},
+      {"id": 16, "title": "Derech Hashem", "author": "Rabbi Moshe Chaim Luzzatto", "category": "Philosophy"},
+      {"id": 17, "title": "Nefesh HaChaim", "author": "Rabbi Chaim of Volozhin", "category": "Mussar"},
+      {"id": 18, "title": "Orchos Tzaddikim", "author": "Unknown", "category": "Mussar"},
+      {"id": 19, "title": "Shemirat Halashon", "author": "Chofetz Chaim", "category": "Halacha"},
+      {"id": 20, "title": "Shev Shmateta", "author": "Rabbi Yitzchak Blazer", "category": "Mussar"},
+      {"id": 21, "title": "Sefer Hachinuch", "author": "Rabbi Ahron Halevi", "category": "Halacha"},
+      {"id": 22, "title": "Sefer Yetzirah", "author": "Unknown", "category": "Kabbalah"},
+      {"id": 23, "title": "Nishmat Chaim", "author": "Rabbi Chaim of Volozhin", "category": "Mussar"},
+      {"id": 24, "title": "Mesilat Yesharim", "author": "Unknown", "category": "Mussar"},
+      {"id": 25, "title": "Kaf HaChaim", "author": "Rabbi Yaakov Chaim Sofer", "category": "Halacha"},
+      {"id": 26, "title": "Mishneh Torah", "author": "Maimonides", "category": "Halacha"},
+      {"id": 27, "title": "Sefer Chasidim", "author": "Unknown", "category": "Chassidus"},
+      {"id": 28, "title": "Ramban", "author": "Nachmanides", "category": "Commentary"},
+      {"id": 29, "title": "Chovos Halevavos", "author": "Bachya ibn Pakuda", "category": "Mussar"},
+      {"id": 30, "title": "Ohr HaChaim", "author": "Rabbi Chaim ben Attar", "category": "Commentary"}
+    ]
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
